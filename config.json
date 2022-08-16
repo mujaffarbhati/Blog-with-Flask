@@ -1,0 +1,16 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri":"Your local server url",
+        "prod_uri":"Your production server url (same if not in production)",
+        "blog_name":"Test Blog via Flask",
+        "no_of_posts":2,
+        "admin_user":"test",
+        "admin_password":"ezpzbabes",
+        "upload_location":"#add_the upload location here for your files while uploading",
+        "twitter_link":"#",
+        "facebook_link":"#",
+        "github_link":"#",
+        "login_image":"logo.svg"
+    }
+}
